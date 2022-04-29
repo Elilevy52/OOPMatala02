@@ -1,4 +1,4 @@
-# OOPMatala02*Java OOP projact PART 2*
+*Java OOP projact PART 2*
 
 Creators Name: Eli Levy.
 ID : 206946790.
