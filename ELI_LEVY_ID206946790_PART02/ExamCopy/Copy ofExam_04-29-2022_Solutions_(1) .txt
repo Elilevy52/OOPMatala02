@@ -1,0 +1,34 @@
+First open answer
+Third open answer
+Second open answer
+Fourth open answer
+Sixth answer - true
+Seventh answer - true
+Eighth answer - true
+False answer #3 - false
+False answer #4 - false
+Nothing is Correct - false
+More then one answer is correct - true
+Fifth answer - true
+False answer #1 - false
+False answer #2 - false
+False answer #3 - false
+False answer #4 - false
+Nothing is Correct - false
+More then one answer is correct - false
+First answer - true
+Second answer - true
+Another answer - true
+And another one - true
+False answer #1 - false
+False answer #4 - false
+Nothing is Correct - false
+More then one answer is correct - true
+False answer #1 - false
+False answer #2 - false
+False answer #3 - false
+False answer #4 - false
+False answer #5 - false
+Nothing is Correct - true
+More then one answer is correct - false
+Nothing is Correct - false
